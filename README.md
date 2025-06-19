@@ -21,5 +21,7 @@ churn is happening or how to prevent it.
 Challenge:
 
 High churn impacts revenue and growth.
+
 Data is available, but insights are hidden.
+
 No clear method to predict or respond to churn effectively.
